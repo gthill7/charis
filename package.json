@@ -1,0 +1,24 @@
+{
+  "name": "charis",
+  "version": "1.0.0",
+  "description": "Automotive repair ministry",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "nodemon -e css,ejs,js,json --watch app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gthill7/charis.git"
+  },
+  "author": "Greyson Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gthill7/charis/issues"
+  },
+  "homepage": "https://github.com/gthill7/charis#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "reload": "^1.1.0"
+  }
+}
