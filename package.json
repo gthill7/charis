@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gthill7/charis.git"
+    "url": "git+https://gitlab.com/gthill7/charis.git"
   },
   "author": "Greyson Hill",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gthill7/charis/issues"
-  },
-  "homepage": "https://github.com/gthill7/charis#readme",
+  "homepage": "https://gitlab.com/gthill7/charis#readme",
   "dependencies": {
     "ejs": "^2.5.5",
     "express": "^4.14.0",
